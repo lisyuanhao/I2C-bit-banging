@@ -15,3 +15,6 @@ __pycache__/
 
 # 忽略容器開發設定
 .devcontainer/
+
+# 忽略 Clangd 設定檔
+.clangd
