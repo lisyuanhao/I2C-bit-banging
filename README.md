@@ -6,7 +6,7 @@ Below is short explanation of remaining files in the project folder.
 ```
 ├── CMakeLists.txt
 ├── sdkconfig
-├── README.md                  This is the file you are currently reading
+├── README.md    This is the file you are currently reading
 ├── main
 │   ├── CMakeLists.txt
 │   └── main.c
