@@ -1,10 +1,5 @@
-## Example folder contents
-
-The project **sample_project** contains one source file in C language [main.c](main/main.c). The file is located in folder [main](main).
-
-ESP-IDF projects are built using CMake. The project build configuration is contained in `CMakeLists.txt`
-files that provide set of directives and instructions describing the project's source files and targets
-(executable, library, or both). 
+# I2C-bit-banging
+This project demonstrates how to use GPIO pins to simulate I²C communication. The MCU manually controls the clock (SCL) and data (SDA) lines to communicate with an MPU6050 sensor, allowing measurement of accelerometer data without using the built-in hardware I²C module.
 
 Below is short explanation of remaining files in the project folder.
 
