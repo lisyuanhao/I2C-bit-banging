@@ -14,3 +14,4 @@ Below is short explanation of remaining files in the project folder.
 │   └── i2c_bitbang
 │       ├── i2c_bitbang.c
 │       └── i2c_bitbang.h
+```
